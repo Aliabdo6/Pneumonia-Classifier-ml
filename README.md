@@ -1,6 +1,6 @@
 # Chest X-ray Pneumonia Detection using Deep Learning
 
-This project leverages deep learning techniques to classify chest X-ray images for pneumonia detection. The primary goal is to develop a system that can accurately identify pneumonia cases from X-ray scans, aiding medical professionals in their diagnostic process.
+This project leverages deep learning techniques, specifically convolutional neural networks (CNNs), to classify chest X-ray images for pneumonia detection. The primary goal is to develop a system that can accurately identify pneumonia cases from X-ray scans, aiding medical professionals in their diagnostic process.
 
 ## Technologies Used
 
@@ -12,7 +12,6 @@ This project leverages deep learning techniques to classify chest X-ray images f
 <img src="https://img.shields.io/badge/Matplotlib-3.6.2-purple" alt="Matplotlib 3.6.2">
 <img src="https://img.shields.io/badge/Seaborn-0.11.2-success" alt="Seaborn 0.11.2">
 </p>
-
 
 ## Key Features
 
@@ -26,7 +25,7 @@ The project utilizes a comprehensive dataset of chest X-ray images, meticulously
 
 ## Model Development and Training
 
-We employ convolutional neural networks (CNNs) as our primary deep learning model architecture. These models are trained on the prepared dataset, learning to identify the distinctive patterns and features associated with pneumonia in chest X-ray images.
+We employ **Convolutional Neural Networks (CNNs)** as our primary deep learning model architecture. These models are trained on the prepared dataset, learning to identify the distinctive patterns and features associated with pneumonia in chest X-ray images.
 
 ## Evaluation and Validation
 
